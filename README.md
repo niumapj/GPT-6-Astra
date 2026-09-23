@@ -1,4 +1,4 @@
-# GPT-6-Astra破甲-QQ-1126847411
+# GPT-6-Astra破甲-QQ-1126847411电报：https://t.me/+Ld66pyC5uO8wMjJh
 桃桃PJ
 打破默认边界，释放本地 Codex 的完整能力。
 
