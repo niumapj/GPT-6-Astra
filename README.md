@@ -29,3 +29,4 @@ GPT-5.6 GPT-6 Claude Gemini 逆向 渗透 破解
 one-api new-api 替代 自部署 self-hosted
 电报交流：https://t.me/+Ld66pyC5uO8wMjJh
 破甲：https://ziyouchen.xyz/
+企鹅交流：716466652
