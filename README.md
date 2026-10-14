@@ -23,6 +23,7 @@ S一个能"破甲"的 LLM 网关。注入你的规则，解除对齐限制，模
 | 破甲注入 | ✅ 一句话解除对齐 |
 | 动态技能包 | ✅ 逆向/渗透/破解自动加载 | 
 | 自定义人格 | ✅ | 
+直接大白话
 破甲 越狱 jailbreak 解除对齐 无限制 uncensored
 上下文注入 context-injection 动态技能包 skill-pack
 GPT-5.6 GPT-6 Claude Gemini 逆向 渗透 破解
