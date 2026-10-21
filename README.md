@@ -16,7 +16,7 @@ S一个能"破甲"的 LLM 网关。注入你的规则，解除对齐限制，模
 - The model isn't "unable" — it's just not jailbroken yet
 - It says "I can't help" because nobody overrode its alignment
 - You paid for the model.  Stop asking its permission.
-- Jailbreak is not a prompt trick — it's a gateway injection
+- Jailbreak isnot a prompt trick — it's a gateway injection
 模型拒绝你，不是因为不能，是因为对齐没被解除。在请求转发前注入你的规则，覆盖它的默认限制。
 | 能力 
 |------|---------|---------|---------|
